@@ -1,0 +1,6 @@
+mkdir git_demo
+cd git_demo
+mkdir test
+cd test
+git init
+touch one.txt
